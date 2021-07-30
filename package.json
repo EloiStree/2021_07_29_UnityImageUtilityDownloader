@@ -1,0 +1,23 @@
+
+{                                                                                
+  "name": "be.eloistree.unityimageutilitydownloader",                              
+  "displayName": "Unity Image Utility Downloader",                        
+  "version": "0.0.1",                         
+  "unity": "2018.1",                             
+  "unityRelease": "",                             
+  "description": "This package facilitate the download and storage of image for experimenting small project in Unity",                         
+  "keywords": ["Script","Tool"],                       
+  "dependencies":{},     
+  "relatedPackages":{},     
+  "samples" : [],     
+  "author" : {
+"name":"",
+"mail":"",
+"url":""},     
+  "repository":{
+"type":"Git",
+"url":"https://github.com/EloiStree/2021_07_29_UnityImageUtilityDownloader.git",
+"footprint":"",
+"revision":""},     
+  "category": "Script"                   
+} 

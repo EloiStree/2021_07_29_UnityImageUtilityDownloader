@@ -1,0 +1,16 @@
+
+{                                                                   
+            "name": "be.eloistree.unityimageutilitydownloaderEditor",          
+    "references": ["be.eloistree.unityimageutilitydownloader"
+],                                                              
+    "optionalUnityReferences": [],                                  
+    "includePlatforms": [                                           
+        "Editor"                                                    
+    ],                                                              
+    "excludePlatforms": [],                                         
+    "allowUnsafeCode": false,                                       
+    "overrideReferences": false,                                    
+    "precompiledReferences": [],                                    
+    "autoReferenced": true,                                         
+    "defineConstraints": []                                         
+}                                                                   
